@@ -35,10 +35,9 @@ section {
 }
 
 
-#full {
-  width: 60%;
+#section {
+  width: 495px;
   overflow: auto;
-  clear: both;
   background: #eee;
   float: left;
 }
@@ -58,7 +57,7 @@ section {
     color: #333;
   }
 
-aside {
+#article {
   width: 100%;
   height: 200px;
   padding: 20px;
@@ -67,11 +66,10 @@ aside {
   border: 1px solid #eee;
   color: #eee;
 }
-#Aside {
-    top: 0;
-    left: 0;
-    width: 40%;
-    overflow: auto;
+aside{
+    padding: 20px;
+    width: 46%;
+    height: 292px;
     clear: both;
     background: #eee;
     float: right;
